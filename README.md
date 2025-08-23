@@ -1,0 +1,1 @@
+Ping is a chat application developed with React and Firebase.
